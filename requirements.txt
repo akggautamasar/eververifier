@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pyzipper
+lxml
+python-multipart
+python-dotenv
+rapidfuzz
